@@ -16,6 +16,7 @@ A fairly simple JavaScript only code that connects a bot from https://cleverbot.
 3. Copy contents of each file in `src` folder as a new script and save.
 
 _OR_
+
 3.a   Dowload this repo.\
 3.b Go to > Utilities > File > Import ( and select `whatsapp.js` and `cleverbot.js` in src folder)
 
@@ -29,6 +30,9 @@ _OR_
 3.a Go to > Utilities > URL > https://raw.githubusercontent.com/ssp5zone/whatsbot/master/src/whatsapp.js \
 3.b Go to > Utilities > URL > https://raw.githubusercontent.com/ssp5zone/whatsbot/master/src/cleverbot.js
 
+Thats it!! Login to https://web.whatsapp.com and your chats would now be intercepted by the bots. _(Refresh the page if already open.)_
+
+**Note:** To start a new seesion refresh the page. Doing so would create all bots again. However, the old tabs that were opened earlier would still be open!
 
 ### Settings
 _(Optional)_
