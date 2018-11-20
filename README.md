@@ -17,12 +17,12 @@ A fairly simple JavaScript only code that connects a bot from https://cleverbot.
 
 _OR_
 
-3.a   Dowload this repo.\
+3.a Dowload this repo.\
 3.b Go to > Utilities > File > Import ( and select `whatsapp.js` and `cleverbot.js` in src folder)
 
 _OR_
 
-3.a Dowload the latest release.\
+3.a Dowload the [latest release](https://github.com/ssp5zone/whatsbot/releases/download/1.0/whatsbot.zip).\
 3.b Go to > Utilities > Zip > Import > Select the downloaded `whatsbot.zip`
 
 _OR_
